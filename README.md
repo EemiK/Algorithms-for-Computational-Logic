@@ -3,7 +3,7 @@ Project 1 for Instituto Superior Técnico course Algorithms for Computational Lo
 Version of Traveling Salesman Problem, Flying Tourist Problem, solved with Python, pySAT library
 and MaxSAT-logic.
 
-More information about the project can be found from the [project_statement.pdf](project_statement.pdf) by Vasco Manquinho (Senior Lecturer) and from the [report\project_report_group24.pdf](project_report_group24.pdf).
+More information about the project can be found from the [project_statement.pdf](project_statement.pdf) by Vasco Manquinho (Senior Lecturer) and from the [project_report_group24.pdf](report\project_report_group24.pdf).
 
 Project can be run with command:
 
